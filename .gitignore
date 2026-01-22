@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+node_modules
+assets
+public
+eslint.config.js
+README.md
+
